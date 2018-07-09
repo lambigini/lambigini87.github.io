@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Harrison 
 header-img: img/home-bg.png
 email: harrisontran@outlook.com
 copyright_name: lambigini87
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tran
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lambigini87
